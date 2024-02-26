@@ -1,0 +1,19 @@
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.fondo {
+    background-color:#9DF1C4;
+    width: 650px;
+    height: 545px;
+    border-start-start-radius: 40px;
+    border-end-start-radius: 40px;
+}
+.my-custom-scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
